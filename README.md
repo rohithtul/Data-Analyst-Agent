@@ -5,6 +5,8 @@ python -m venv venv-clean
 venv-clean\Scripts\activate
 
 pip install streamlit pandas matplotlib langchain-google-genai google-generativeai langchain
+windows Powershell:
+$env:GEMINI_API_KEY="YOUR_API_KEY_HERE"
 
 $env:GEMINI_MODEL = 'models/gemini-2.5-flash'  # updated based on preference
 

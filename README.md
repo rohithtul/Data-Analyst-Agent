@@ -9,3 +9,4 @@ pip install streamlit pandas matplotlib langchain-google-genai google-generative
 $env:GEMINI_MODEL = 'models/gemini-2.5-flash'  # updated based on preference
 
 streamlit run app.py
+<img width="1460" height="1121" alt="image" src="https://github.com/user-attachments/assets/c9eaa420-6887-4623-9229-1836c1fabdd9" />
